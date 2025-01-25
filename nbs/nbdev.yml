@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://hayabusa-1.github.io/nbdev"
+  description: "testing for nbdev walkthrough"
+  repo-branch: main
+  repo-url: "https://github.com/hayabusa-1/nbdev"
